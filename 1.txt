@@ -1,10 +1,1 @@
-<<<<<<< HEAD
 this is my first commit
-<<<<<<< HEAD
-=======
-this is my code
-this is feature f1
->>>>>>> second
-=======
-this is feature f2 
->>>>>>> f2
